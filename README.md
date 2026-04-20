@@ -11,7 +11,7 @@ Topic: Creating Class and Object
 
 Video: https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
 
-Code: https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-1(19-04-2026)
+Code: https://github.com/rashsed60cyber/IT24014-First-30-Days-Plan
 
 Summary:
 
